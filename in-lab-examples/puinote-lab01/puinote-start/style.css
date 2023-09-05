@@ -1,0 +1,39 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    color: #939393;
+    background-color: #191919;
+}
+
+.noteCard{
+    width: 700px;
+    height: auto;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: dimgrey;
+    border-radius: 5px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.noteCardThumbnail{
+    margin-top: 50px;
+    margin-left: 40px;
+}
+
+.noteCardTitle{
+    color: #dddddd;
+    font-size: 22px;
+    font-weight: 500;
+    margin: 30px 40px 10px 40px;   
+    /* top right bottom left*/
+}
+
+.noteCardBody{
+    margin: 10px 40px 40px 40px;
+    line-height: 1.9;
+    font-size: 14px;
+}
+
+
